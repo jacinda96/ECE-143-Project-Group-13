@@ -1,7 +1,7 @@
 # ECE143-Team 13
 Analysis of Uber &amp; Lyft prices
 
-#Authors
+# Authors
 *Jiayuan Shen
 *John Xie
 *Robert Young
@@ -10,7 +10,7 @@ Analysis of Uber &amp; Lyft prices
 #Presentation
 You can view our presentation by click here
 
-#File Structure
+# File Structure
 ```
 uber-lyft-cab-prices/
     cab_rides.csv
@@ -33,12 +33,12 @@ ECE143.ipynb
 ECE143.pdf
 README.md
 
-#How to run our Data
-##Data Analysis
-###Start up Jupter Notebook
+# How to run our Data
+## Data Analysis
+### Start up Jupter Notebook
 Open ECE143.ipynb in Jupter Notebook and run from the first cell
 
-#Third Party modules
+# Third Party modules
 pandas
 datetime
 numpy
