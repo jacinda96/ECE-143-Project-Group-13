@@ -7,7 +7,7 @@ Analysis of Uber &amp; Lyft prices
 *Robert Young
 *Jialu Zhao
 
-#Presentation
+# Presentation
 You can view our presentation by click here
 
 # File Structure
@@ -32,6 +32,7 @@ Data/
 ECE143.ipynb
 ECE143.pdf
 README.md
+```
 
 # How to run our Data
 ## Data Analysis
