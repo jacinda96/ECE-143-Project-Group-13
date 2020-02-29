@@ -40,6 +40,7 @@ README.md
 Open ECE143.ipynb in Jupter Notebook and run from the first cell
 
 # Third Party modules
+```
 pandas
 datetime
 numpy
@@ -51,4 +52,5 @@ seaborn
 networkx
 math
 sklearn
+```
 
