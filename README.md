@@ -46,6 +46,16 @@ README.md
 ```
 
 # How to run our Data
+
+# Data Collection
+Our data was collected by manually using the Uber and Lyft apps from the apple store.
+Method of collection:
+    Our data collection followed the pattern manually entering in price of ride requests for both apps 
+    according to the google sheets linked below. This google sheets was constructed to model the exect
+    same datapoints found in the original kaggle dataset. Times were collected starting at the hour(s)
+    of 7am, 11am, and 3pm with the goal of collecting all data within the same hour.
+    NOTE: Cab types were randomly chosen for any given query.
+
 ## Start up Jupter Notebook
 Open ECE143.ipynb in Jupter Notebook and run from the first cell. 
 You need to unzip the data_merged.csv.zip first before running our code.
