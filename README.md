@@ -48,10 +48,11 @@ README.md
 # How to run our Data
 
 # Data Collection
-
+```
 Kaggle Dataset: https://www.kaggle.com/ravi72munde/uber-lyft-cab-prices
 
 Manual Data
+
 In addition to the above dataset, we also collected similar data manually using the Uber and Lyft apps from the apple store.
 The purpose of this was to create a test set for our machine learining models for price prediction against.
 
@@ -61,6 +62,7 @@ same datapoints found in the original kaggle dataset. Times were collected start
 of 7am, 11am, and 3pm with the goal of collecting all data within the same hour.
 NOTE: Cab types were randomly chosen for any given query.
 Data : https://docs.google.com/spreadsheets/d/1ADEPHjSxZHUB_ZmmxWcxfHpzXunH4R7EzefOCRVzXtg/edit?usp=sharing
+```
 
 ## Start up Jupter Notebook
 Open ECE143.ipynb in Jupter Notebook and run from the first cell. 
