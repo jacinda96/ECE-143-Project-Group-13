@@ -49,6 +49,9 @@ README.md
 
 # Data Collection
 
+We used kaggle as our primary dataset as it was the best and most relevant source we could find to our topic
+This dataset was used to form the basis of our data analysis visualizations and used by our machine learning 
+algorithms.
 Kaggle Dataset: https://www.kaggle.com/ravi72munde/uber-lyft-cab-prices
 
 Manual Data
@@ -58,8 +61,9 @@ The purpose of this was to create a test set for our machine learining models fo
 
 Our data collection followed the pattern manually entering in price of ride requests for both apps 
 according to the google sheets linked below. This google sheets was constructed to model the exect
-same datapoints found in the original kaggle dataset. Times were collected starting at the hour(s)
-of 7am, 11am, and 3pm with the goal of collecting all data within the same hour.
+same datapoints found in the original kaggle dataset. For ride prices, times were collected starting at the hour(s)
+of 7am, 11am, and 3pm with the goal of collecting all data within the same hour and with routes corresponding to every route instance found in the kaggle dataset. For weather, data was collected once for every location in the dataset for the same time periods. This process was repreated everyday for a week to collect a comparable dataset to the kaggle data.
+
 NOTE: Cab types were randomly chosen for any given query.
 
 Data : https://docs.google.com/spreadsheets/d/1ADEPHjSxZHUB_ZmmxWcxfHpzXunH4R7EzefOCRVzXtg/edit?usp=sharing
