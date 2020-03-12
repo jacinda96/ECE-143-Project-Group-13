@@ -48,8 +48,13 @@ README.md
 # How to run our Data
 
 # Data Collection
-Our data was collected by manually using the Uber and Lyft apps from the apple store.
-Method of collection:
+
+Kaggle Dataset: https://www.kaggle.com/ravi72munde/uber-lyft-cab-prices
+
+Manual Data
+In addition to the above dataset, we also collected similar data manually using the Uber and Lyft apps from the apple store.
+The purpose of this was to create a test set for our machine learining models for price prediction against.
+
 Our data collection followed the pattern manually entering in price of ride requests for both apps 
 according to the google sheets linked below. This google sheets was constructed to model the exect
 same datapoints found in the original kaggle dataset. Times were collected starting at the hour(s)
