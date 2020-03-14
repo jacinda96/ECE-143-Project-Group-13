@@ -46,6 +46,16 @@ README.md
 ```
 
 # How to run our Data
+Start by dowloading all CSV files contained in the the repo, namely the files in "Data" and "uber-lyft-cab-prices" subdirectories.
+
+In order to run a function declared in a python file, simply import the function(s) as you would do from any 
+python file using regular import python syntax. However, some files whose functionality are not contained within functions
+must be ran as a standalone python executable with they syntax:
+```
+python <filename>
+```
+NOTE: in order to make sure that all files will function as intended, all variables found inside the jupyter notebook should be 
+instantiated prior to executing any dependent code.
 
 # Data Collection
 
