@@ -45,12 +45,13 @@ ECE143_143_Final_project_[13].pdf
 README.md
 ```
 
-# How to run our Data
+# How to Run Our Code
 Start by dowloading all CSV files contained in the the repo, namely the files in "Data" and "uber-lyft-cab-prices" subdirectories.
+Then, make sure that all libraries found below in section "Third Party Modules" are installed in your python environment.
 
 In order to run a function declared in a python file, simply import the function(s) as you would do from any 
 python file using regular import python syntax. However, some files whose functionality are not contained within functions
-must be ran as a standalone python executable with they syntax:
+must be ran as a standalone python executable with the syntax:
 ```
 python <filename>
 ```
